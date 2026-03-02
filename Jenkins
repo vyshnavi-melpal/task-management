@@ -1,1 +1,10 @@
+pipeline{
+   stages{
+       stages('build'){
 
+       }
+       stages('test'){
+         
+       }
+   }
+}
