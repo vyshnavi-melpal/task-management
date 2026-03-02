@@ -1,9 +1,9 @@
 pipeline{
    stages{
-       stages('build'){
+       stage('build'){
 
        }
-       stages('test'){
+       stage('test'){
          
        }
    }
